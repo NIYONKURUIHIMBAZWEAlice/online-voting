@@ -1,6 +1,5 @@
 # online-voting
 This project allow Votters to vote online
-# Readme
 
 Credentials for accessing the application:
 
